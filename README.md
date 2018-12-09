@@ -5,6 +5,7 @@ In this assignment we were instructed to recreate the octodex and make it respon
 @media queries<br/>
 FontAwesome for the octocat symbol at the bottom<br/>
 how to pull images and information online from the json file provided<br/>
+expanded my knowledge on Flexbox<br/>
 
 <strong>Technologies Used</strong><br/>
 HTML<br/>
